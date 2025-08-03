@@ -96,6 +96,6 @@ MIT — use freely for educational or commercial purposes.
 
 ---
 
-## 🤛\200d♂️ Author
+## 🤛 Author
 
 Built by **Ehsan** for a frontend technical assessment.
